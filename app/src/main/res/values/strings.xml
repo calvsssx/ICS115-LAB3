@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LabExer3</string>
+    <string name="title">Fisher Mall</string>
+    <string name="loc">Location: Quezon Ave. cor Roosevelt</string>
+    <string name="desc">Fisher Mall</string>
+    <string name="distance_from_ust">Distance from UST: 4.9 km</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+
+</resources>
